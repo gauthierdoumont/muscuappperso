@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <!-- Icône de l'application Muscu — Créé par Gauthier Doumont -->
+  <title>Muscu</title>
+  <desc>Haltère orange sur fond sombre. Créé par Gauthier Doumont.</desc>
+  <rect width="512" height="512" fill="#0d0f13"/>
+  <circle cx="256" cy="256" r="178" fill="#ff7a2f" opacity="0.10"/>
+  <g fill="#ff7a2f">
+    <rect x="112" y="176" width="44" height="160" rx="12"/>
+    <rect x="160" y="204" width="32" height="104" rx="10"/>
+    <rect x="192" y="240" width="128" height="32" rx="6"/>
+    <rect x="320" y="204" width="32" height="104" rx="10"/>
+    <rect x="356" y="176" width="44" height="160" rx="12"/>
+  </g>
+</svg>
